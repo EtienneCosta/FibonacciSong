@@ -1,6 +1,4 @@
 # FibonacciSong
-
-
 Música gerada através das notas musicais produzidas pela sequência de fibonnaci .:notes::musical_note:
 
 
