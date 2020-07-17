@@ -1,17 +1,13 @@
-# PiValue
-Monte Carlo simulation algorithm for estimating the value of π
-
-PROBLEM
-========
-
-* It is intended to implement the Monte Carlo simulation algorithm to estimate the value of π, using multiple threads in order to parallelize the task.
-
-Expected Result
-------------------
-
-![log print](output.png)
+# FibonacciSong
+Música gerada através das notas musicais produzidas pela sequência de fibonnaci .:notes::musical_note:
 
 
-Comments
-------------
-* The number of threads and points are preponderant in two ways, the more points you have the more accurate it turns out to be, ie, the estimated value of pi is closer to the real value, and that the number of threads has a significant impact on the time of execution.
+* Euterpea: is a cross-platform, domain-specific language for computer music applications embedded in the Haskell programming language. 
+
+* VMPK- Virtual MIDI Piano Keyboard.
+
+Projecto desenvolvido por :
+```
+Etienne Costa.
+Todas as sugestões e correções são bem-vindas.
+```
